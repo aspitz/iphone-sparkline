@@ -43,6 +43,7 @@
 		data[i] =  ((CGFloat)r);
 	}
 	
+	[sparklineView debug];
 	[sparklineView setNormalRangeMin:-10.0 max:0.0];
 	[sparklineView setData:data len:dataLen min:-10.0 max:10.0];
 }

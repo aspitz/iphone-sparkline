@@ -21,6 +21,8 @@
 	bool		showNormalRange;
 	UIColor*	normalRangeColor;
 	CGFloat		normalMin, normalMax;
+	
+	bool		debug;
 }
 
 @property (nonatomic, retain) UIColor* lineColor;
@@ -34,5 +36,7 @@
 
 - (void)setNormalRangeMin:(CGFloat) nMin max:(CGFloat)nMax;
 - (void)setNormalRangeMin:(CGFloat) nMin max:(CGFloat)nMax color:(UIColor *)color;
+
+- (void)debug;
 
 @end
