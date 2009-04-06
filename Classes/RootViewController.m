@@ -2,8 +2,8 @@
 //  RootViewController.m
 //  Sparkline
 //
-//  Created by iPhone Dev on 4/2/09.
-//  Copyright 2009 __MyCompanyName__. All rights reserved.
+//  Created by Ayal Spitz on 4/2/09.
+//  Copyright 2009 Ayal Spitz. All rights reserved.
 //
 
 #import "RootViewController.h"

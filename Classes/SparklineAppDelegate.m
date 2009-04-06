@@ -2,8 +2,8 @@
 //  SparklineAppDelegate.m
 //  Sparkline
 //
-//  Created by iPhone Dev on 4/2/09.
-//  Copyright __MyCompanyName__ 2009. All rights reserved.
+//  Created by Ayal Spitz on 4/2/09.
+//  Copyright Ayal Spitz 2009. All rights reserved.
 //
 
 #import "SparklineAppDelegate.h"
